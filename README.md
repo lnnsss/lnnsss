@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Timur
 #### I am Web-Developer
-I live in Russia, Almetyevsk. I'm 17 years old. I'm a 2nd year student. I'm studying the backend. 
+I live in Russia, Almetyevsk. I'm 18 years old. I'm a 2nd year student. I'm studying the backend. 
 
 Skills: / HTML / CSS / JS / REACT / PYTHON / JAVA / C
 
