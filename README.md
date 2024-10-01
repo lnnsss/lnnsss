@@ -5,6 +5,7 @@ I live in Russia, Almetyevsk. I'm 18 years old. I'm a 3rd year student. I'm stud
 Langs: JS / Python / Java / C / PHP
 
 Frontend: HTML, CSS (SASS), JavaScript, React, Next.js, Bootstrap, Tailwind, Bulma.
+<br>
 Backend: Node.js, Express, MongoDB.
 
 - 🌱 I’m currently learning express, postman
