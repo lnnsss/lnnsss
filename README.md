@@ -1,9 +1,10 @@
 ### Hi there 👋, My name is Timur
 #### I am Web-Developer
 I live in Russia, Almetyevsk. I'm 18 years old. I'm a 3rd year student. I'm studying the backend. 
-
 Langs: JS / Python / Java / C / PHP
-Tools: React / Next / Tailvind / Express  
+
+Frontend: HTML, CSS (SASS), JavaScript, React, Next.js, Bootstrap, Tailwind, Bulma.
+Backend: Node.js, Express, MongoDB.
 
 - 🌱 I’m currently learning express, postman
 - 📫 How to reach me: bezborodnikovtimur@gmail.com 
