@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Timur
 #### I am Web-Developer
 I live in Russia, Almetyevsk. I'm 18 years old. I'm a 3rd year student. I'm studying the backend. 
+<br>
 Langs: JS / Python / Java / C / PHP
 
 Frontend: HTML, CSS (SASS), JavaScript, React, Next.js, Bootstrap, Tailwind, Bulma.
