@@ -1,6 +1,6 @@
-### Hi there 👋, My name is Timur
-#### I am Web-Developer
-I'm 18 years old. Russia, Almetyevsk.
+### Hi there 👋, My name is Penis
+#### I am Penis
+I'm Penis years old. Russia, Penis.
 
 Frontend: HTML, CSS (SASS), JavaScript (TypeScript), React, Next.js, Vite, Bootstrap, Tailwind, Bulma.
 <br>
