@@ -2,9 +2,9 @@
 #### I am Web-developer
 I'm 18 years old. Russia, Almetyevsk.
 
-Frontend: HTML, CSS (SASS), JavaScript (TypeScript), React, Next.js, Vite, Mobx, Zoostand, Axios, Bootstrap, Tailwind, Bulma.
+Frontend: HTML, CSS (SASS), JS (TS), React, Next.js, Vite, Mobx, Zoostand, Axios.
 <br>
-Backend: Node.js, Express, MongoDB (Mongoose), JWT, BCrypt.
+Backend: Node.js, Express, MongoDB, JWT.
 
 - 🌱 I’m currently learning Go.
 - 📫 How to reach me: bezborodnikovtimur@gmail.com 
