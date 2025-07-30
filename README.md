@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Timur
 #### I am Web-developer
-I'm 18 years old. Russia, Almetyevsk.
+I'm 19 years old. Russia, Almetyevsk.
 
 Frontend: HTML, CSS (SASS), JS (TS), React, Next.js, Vite, Mobx, Zoostand, Axios.
 <br>
