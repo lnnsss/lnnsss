@@ -4,7 +4,7 @@ I'm 19 years old. Russia, Almetyevsk.
 
 Frontend: HTML, CSS (SASS), JS (TS), React, Next.js, Vite, Mobx, Zoostand, Axios.
 <br>
-Backend: Node.js, Express, NestJS, PostgreSQL, MongoDB, JWT, Web-Sockets.
+Backend: Node.js, Express, NestJS, PostgreSQL, MongoDB, Prisma, JWT, Web-Sockets.
 
 - 🌱 I’m currently learning PostgreSQL.
 - 📫 How to reach me: bezborodnikovtimur@gmail.com
